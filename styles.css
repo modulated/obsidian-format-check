@@ -1,8 +1,15 @@
-/*
+.format-check-folder-input {
+	width: 100%;
+}
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
-
-If your plugin does not need CSS, delete this file.
-
-*/
+.format-check-dot {
+	display: inline-block;
+	width: 7px;
+	height: 7px;
+	border-radius: 50%;
+	background-color: var(--format-check-dot-color, #f59e0b);
+	flex-shrink: 0;
+	margin-left: 5px;
+	vertical-align: middle;
+	align-self: center;
+}
