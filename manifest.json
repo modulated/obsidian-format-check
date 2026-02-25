@@ -6,5 +6,5 @@
 	"description": "Decorates files if they have not been formatted - based on a formatted timestamp in the frontmatter",
 	"author": "modulated",
 	"authorUrl": "https://github.com/modulated",
-	"isDesktopOnly": false
+	"isDesktopOnly": true
 }
